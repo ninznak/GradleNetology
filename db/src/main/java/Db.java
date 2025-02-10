@@ -1,5 +1,3 @@
-package ru.netology;
-
 import java.util.UUID;
 
 public class Db {

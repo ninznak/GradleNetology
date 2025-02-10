@@ -1,5 +1,3 @@
-package ru.netology;
-
 public class DbSetting {
 
     private String name;
